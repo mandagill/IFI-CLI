@@ -1,0 +1,16 @@
+LICENSE
+README.md
+pyproject.toml
+src/helpers/clairmeta.py
+src/helpers/moveit.py
+src/helpers/pbcore.py
+src/ifidp/__init__.py
+src/ifidp/ifidp.py
+src/ifidp.egg-info/PKG-INFO
+src/ifidp.egg-info/SOURCES.txt
+src/ifidp.egg-info/dependency_links.txt
+src/ifidp.egg-info/entry_points.txt
+src/ifidp.egg-info/requires.txt
+src/ifidp.egg-info/top_level.txt
+src/workflows/aip.py
+src/workflows/sip.py

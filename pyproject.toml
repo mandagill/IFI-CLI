@@ -1,0 +1,11 @@
+[project]
+name = "ifidp"
+version = "0.0.1"
+description = "Scaffold for refactored IFIscripts"
+requires-python = ">=3.11"
+dependencies = [
+    "click>=8.5",
+]
+
+[project.scripts]
+ifidp = "ifidp.ifidp:cli"

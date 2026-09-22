@@ -1,0 +1,2 @@
+click==8.5.0
+-e git+ssh://git@github.com/mandagill/IFI-CLI.git@ccd7c319f63702109d7529f5605e423bd1c9bd68#egg=ifidp
